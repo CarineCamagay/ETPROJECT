@@ -146,3 +146,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     background-color: grey;
     color:white;
 }
+#footer{
+    background-color:maroon;
+    width:100%;
+}
